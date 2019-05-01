@@ -1,0 +1,1 @@
+# HandWrittenDigitRecognition_Parallel_OpenMP# HAND_WRITTEN_DIGIT_RECOGNITION_PARALLEL_OPENMP
